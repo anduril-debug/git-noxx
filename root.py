@@ -1,5 +1,4 @@
 from github import Github
-from dotenv import load_dotenv
 import os
 import github
 from functions import get_repo_name,get_sort_by,get_order,get_ignore_word,get_repos,list_repos
